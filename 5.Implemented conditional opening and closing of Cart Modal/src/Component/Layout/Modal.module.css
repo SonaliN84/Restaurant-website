@@ -1,0 +1,28 @@
+.Modal{
+    position: fixed;
+    top:50vh;
+    left:30vw;
+    width:400px;
+    max-width: 90%;
+    background-color: white;
+    border: 1pz solid gray;
+    border-radius:10px;
+    padding:10px 20px;
+    z-index:100;
+    color: black;
+}
+.amount{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -20px;
+}
+/* button{
+    float:right;
+    margin-left: 10px;
+    border:1px solid brown;
+    background-color: brown;
+    color:white;
+    border-radius: 5px;
+    padding:5px;
+
+} */
