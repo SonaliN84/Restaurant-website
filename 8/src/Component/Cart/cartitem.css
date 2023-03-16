@@ -1,0 +1,21 @@
+.item{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom:6px;
+    border-bottom: 1px solid rgb(212, 208, 208);
+    height: 50px;
+}
+
+.i{
+    width:60px;
+  
+}
+.i.a{
+    text-align: center;
+}
+.delete{
+    display: none;
+}

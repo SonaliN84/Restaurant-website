@@ -1,0 +1,15 @@
+.summary{
+    width:700px;
+    max-width: 80%;
+    padding:10px;
+    text-align: center;
+    color: white;
+    background-color: rgb(54, 54, 54);
+    box-shadow: 5px 10px 20px rgb(49, 48, 48);
+    border-radius: 10px;
+    margin: auto;
+    margin-top:-10rem ;
+    position: relative;
+    /* bottom: 150px; */
+    /* z-index: 3; */
+}
